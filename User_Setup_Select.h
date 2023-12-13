@@ -155,7 +155,7 @@
 //#include <User_Setups/Dustin_STT7789_ESP32.h>    // Setup file for Dustin Watts PCB with ST7789 240 x 240 on 3.3V adapter board
 //#include <User_Setups/Dustin_ILI9341_ESP32.h>    // Setup file for Dustin Watts PCB with ILI9341
 //#include <User_Setups/ILI9225.h>
-#include <../TFT_eSPI_Setups/Setup207_GC9A01.h>
+#include <Setup207_GC9A01.h>
 #endif // USER_SETUP_LOADED
 
 
